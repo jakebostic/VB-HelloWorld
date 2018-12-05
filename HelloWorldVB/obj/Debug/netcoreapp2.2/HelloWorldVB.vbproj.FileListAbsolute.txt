@@ -1,0 +1,11 @@
+C:\repos\HelloWorldVB\HelloWorldVB\bin\Debug\netcoreapp2.2\HelloWorldVB.deps.json
+C:\repos\HelloWorldVB\HelloWorldVB\bin\Debug\netcoreapp2.2\HelloWorldVB.runtimeconfig.json
+C:\repos\HelloWorldVB\HelloWorldVB\bin\Debug\netcoreapp2.2\HelloWorldVB.runtimeconfig.dev.json
+C:\repos\HelloWorldVB\HelloWorldVB\bin\Debug\netcoreapp2.2\HelloWorldVB.dll
+C:\repos\HelloWorldVB\HelloWorldVB\bin\Debug\netcoreapp2.2\HelloWorldVB.pdb
+C:\repos\HelloWorldVB\HelloWorldVB\obj\Debug\netcoreapp2.2\HelloWorldVB.vbprojAssemblyReference.cache
+C:\repos\HelloWorldVB\HelloWorldVB\obj\Debug\netcoreapp2.2\HelloWorldVB.vbproj.CoreCompileInputs.cache
+C:\repos\HelloWorldVB\HelloWorldVB\obj\Debug\netcoreapp2.2\HelloWorldVB.AssemblyInfoInputs.cache
+C:\repos\HelloWorldVB\HelloWorldVB\obj\Debug\netcoreapp2.2\HelloWorldVB.AssemblyInfo.vb
+C:\repos\HelloWorldVB\HelloWorldVB\obj\Debug\netcoreapp2.2\HelloWorldVB.dll
+C:\repos\HelloWorldVB\HelloWorldVB\obj\Debug\netcoreapp2.2\HelloWorldVB.pdb
